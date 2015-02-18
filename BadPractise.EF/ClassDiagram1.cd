@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BadPractise.EF.Address" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIgAAAAAAgAAAAIIAEACEAAAgAAAAAAAAAAAACQAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.AddressConfiguration" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.AddressType" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAQAAgQAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.AddressTypeConfiguration" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BillOfMaterial" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAEAAgAgAIAACiAgAACFAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BillOfMaterialConfiguration" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntity" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIACAAAAAAAAAAAAAAAAAAAAgAAAABACAAAAQCAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntityAddress" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAIAAAAAAAAAAAAAAgQAAAACCAAAAASAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntityAddressConfiguration" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntityConfiguration" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntityContact" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAEAAEAAEAAAAAAgAAAAAACAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.BusinessEntityContactConfiguration" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Class1" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ContactType" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAEAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ContactTypeConfiguration" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CountryRegion" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAQAAAQAAgBAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CountryRegionConfiguration" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CountryRegionCurrency" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAACgAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CountryRegionCurrencyConfiguration" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CreditCard" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABgACAAAAAAAAAAAAAAAAggAAAAAAAAAACAAABA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CreditCardConfiguration" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Culture" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CultureConfiguration" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Currency" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAAAAAQAAAAQAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CurrencyConfiguration" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CurrencyRate" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIAAAAACAAAAAAAAEAIgAAgBAAAAAQAAAAAAQ=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CurrencyRateConfiguration" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Customer" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAAAAAAAAAEAAAAEAEAAggAADAAAAAAAQCAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.CustomerConfiguration" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Department" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAgAAAAAAAAAQAAgAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.DepartmentConfiguration" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Document" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAEAAAAAAAAAASsAAABAGAAEgAQDAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.DocumentConfiguration" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmailAddress" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAEAAAAABAAAAAAgAAAAAACAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmailAddressConfiguration" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Employee" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAASAABAAAAAGAAAEQAwQIAiAAAAACCIAACAiIAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmployeeConfiguration" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmployeeDepartmentHistory" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAgAAAAAAAAgGgAAAAAACAAAAEAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmployeeDepartmentHistoryConfiguration" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmployeePayHistory" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAEAAABAAAAAACgAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.EmployeePayHistoryConfiguration" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Illustration" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.IllustrationConfiguration" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.JobCandidate" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAACgAAAAAACAAAAAgAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.JobCandidateConfiguration" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Location" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAgAAAAABACBAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.LocationConfiguration" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.MyDbContext" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AANhCDARGIwAwAkRhLcQAwwCGqDQABACJKxBAUZAABQ=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BadPractise.EF.Password" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EICAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PasswordConfiguration" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Person" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACEAACSIAAEAAIAAQAAAACgAAAEBCDCAAAACAABg=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PersonConfiguration" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PersonCreditCard" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACAAAAAAAAQAAAAAAAgAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PersonCreditCardConfiguration" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PersonPhone" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAAAAAAAAEAAAAAAQAAAAgAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PersonPhoneConfiguration" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PhoneNumberType" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAQAAgAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PhoneNumberTypeConfiguration" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Product" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIEAAgABAEgAwARBBCIAAUQCAqACAFQBBQRghKCAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductCategory" Collapsed="true">
+    <Position X="19.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAgCAAAAAAAACAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductCategoryConfiguration" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductConfiguration" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductCostHistory" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAgAAAAAAAAAAgAgAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductCostHistoryConfiguration" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductDescription" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAAAAAAAAAQAAgAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductDescriptionConfiguration" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductDocument" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAAAgAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductDocumentConfiguration" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductInventory" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAKAAAAAAAAAAAACAIAAAAAAgAAAAAAAIAAgACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductInventoryConfiguration" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductListPriceHistory" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAAAAAAAAAAAgAgAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductListPriceHistoryConfiguration" Collapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModel" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAAAAAAQAAgAIAAAAAAAAAACAAAQ=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModelConfiguration" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModelIllustration" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAQAACAABAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModelIllustrationConfiguration" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModelProductDescriptionCulture" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAQAACAAAAABAwAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductModelProductDescriptionCultureConfiguration" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductPhoto" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAACACgAEAAAAAADAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductPhotoConfiguration" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductProductPhoto" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAQCAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductProductPhotoConfiguration" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductReview" Collapsed="true">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAABAAAAgAAAAAAAAAAgAAAAEAAAAAAgAAMAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductReviewConfiguration" Collapsed="true">
+    <Position X="19.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductSubcategory" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEQAAgAAAAAAAAACAACAEAQ=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductSubcategoryConfiguration" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductVendor" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACCABAAAAAAAAAAAAEEAIIAgCAAABCCAIAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ProductVendorConfiguration" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PurchaseOrderDetail" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAACAAAAAAAAACAAgAAABIAAAgACACAAAAAAAAIAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PurchaseOrderDetailConfiguration" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PurchaseOrderHeader" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAREAAAAAAAAAAgQIQAACgAAACRIAAAAAAAKAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.PurchaseOrderHeaderConfiguration" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderDetail" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAQAAAACAAgAAAAAAAAwAAAEAEABAgCACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderDetailConfiguration" Collapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderHeader" Collapsed="true">
+    <Position X="18" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAGAAIRECAAAACEAgQgQIAEAAgoQQDRIIDAgICCAAgA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderHeaderConfiguration" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderHeaderSalesReason" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAIAgCAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesOrderHeaderSalesReasonConfiguration" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesPerson" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAEEAAAAAAAAAAAAEACgBAACCACAABAQCAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesPersonConfiguration" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesPersonQuotaHistory" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAEAAAgAAAACACAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesPersonQuotaHistoryConfiguration" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesReason" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAQAAgAAACAAACAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesReasonConfiguration" Collapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTaxRate" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAACAAIEAAAQAAgAAACAAAAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTaxRateConfiguration" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTerritory" Collapsed="true">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAFAAIEAAAAEAAAAAAAUAAgBAAAAAAAABIACIAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTerritoryConfiguration" Collapsed="true">
+    <Position X="19.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTerritoryHistory" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAEgAgAAACAACAAAAECAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SalesTerritoryHistoryConfiguration" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ScrapReason" Collapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ScrapReasonConfiguration" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Shift" Collapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAIgAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ShiftConfiguration" Collapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ShipMethod" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAIAAAAAAAAQAAQAAgAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ShipMethodConfiguration" Collapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ShoppingCartItem" Collapsed="true">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAEAAAAAAAQgAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.ShoppingCartItemConfiguration" Collapsed="true">
+    <Position X="16.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SpecialOffer" Collapsed="true">
+    <Position X="18" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAQAAiAwAAAgAAAQACAECACAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SpecialOfferConfiguration" Collapsed="true">
+    <Position X="19.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SpecialOfferProduct" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAAAwAQAAgAAAAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.SpecialOfferProductConfiguration" Collapsed="true">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.StateProvince" Collapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAgAECAAUAAgAAAiAAAAAAAACIAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.StateProvinceConfiguration" Collapsed="true">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Store" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAIAAAEAAAAAAAQAAgAAAEAACBAAAACAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.StoreConfiguration" Collapsed="true">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.TransactionHistory" Collapsed="true">
+    <Position X="11" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAgAAAAAIAAAAACAAAAAAAgAAAAEAAAAAkAAABAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.TransactionHistoryArchive" Collapsed="true">
+    <Position X="12.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAAAIAAAAACAAAAAAAgAAAAEAAAAAkAAABAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.TransactionHistoryArchiveConfiguration" Collapsed="true">
+    <Position X="14.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.TransactionHistoryConfiguration" Collapsed="true">
+    <Position X="16.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.UnitMeasure" Collapsed="true">
+    <Position X="18" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAEAQAAgAgAgAAAAAAAABAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.UnitMeasureConfiguration" Collapsed="true">
+    <Position X="19.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.Vendor" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIAAQABAAgQAAQAAggBAAAACAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.VendorConfiguration" Collapsed="true">
+    <Position X="2.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.WorkOrder" Collapsed="true">
+    <Position X="4" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABCAAAAAAgAACAAiAAAAAAgAgAAAAAAAAAAAEIBAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.WorkOrderConfiguration" Collapsed="true">
+    <Position X="5.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.WorkOrderRouting" Collapsed="true">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAIAAAAQAAAAAAACAIAQBAAAkAAAAAAAAABAAgBBAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadPractise.EF.WorkOrderRoutingConfiguration" Collapsed="true">
+    <Position X="9.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BadPractise.EF.IMyDbContext" Collapsed="true">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gANhCDARGIwAwAkRhLcQAwwCCKDQABACJKxBAUZAABQ=</HashCode>
+      <FileName>AdventureWorks.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

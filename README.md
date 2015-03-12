@@ -1,11 +1,12 @@
 # BadPractise
-Example application demonstrating bad practises
+Example application demonstrating bad practices
 
-When completed, the application will demonstrate common mistakes and sub-optimal practises.
+When completed, the application will demonstrate common mistakes and sub-optimal practices.
+
+The fact that the repo is named 'BadPractise' instead of 'BadPractice' may be a clever play on words, or it may not!
 
 ## ORMs
-Object relational mapping tools - make dealing with relational data a lot easier for developers, but it is easy to end up with
-queries that perform badly.
+Object relational mapping tools - make dealing with relational data a lot easier for developers, but it is easy to end up with queries that perform badly.
 
 ## Database
 This app uses the AdventureWorks database. 

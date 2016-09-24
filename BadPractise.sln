@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPractise.Core", "BadPractise.Core\BadPractise.Core.csproj", "{53D7EFC2-74D2-4925-92BE-BBF625D62A33}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPractise.NH", "BadPractise.NH\BadPractise.NH.csproj", "{CBA4DA59-3B49-4550-AEEF-1DC26D41A79F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPractise.Wpf", "BadPractise.Wpf\BadPractise.Wpf.csproj", "{865D5A17-994C-415E-958C-1D82765D617A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadPractise.Wpf.Tests", "BadPractise.Wpf.Tests\BadPractise.Wpf.Tests.csproj", "{A0F96581-747E-473A-8707-A03DF91C3F10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{865D5A17-994C-415E-958C-1D82765D617A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{865D5A17-994C-415E-958C-1D82765D617A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{865D5A17-994C-415E-958C-1D82765D617A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F96581-747E-473A-8707-A03DF91C3F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F96581-747E-473A-8707-A03DF91C3F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F96581-747E-473A-8707-A03DF91C3F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F96581-747E-473A-8707-A03DF91C3F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
